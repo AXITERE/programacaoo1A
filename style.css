@@ -1,0 +1,39 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+strong {
+    color: #FF0000;
+}
+
+#centro {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.pcgamer {
+    width: 50%;
+}
+
+.beneficios{
+    text-align: center;
+    padding: 20px;
+}
